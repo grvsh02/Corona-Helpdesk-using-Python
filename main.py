@@ -13,9 +13,6 @@ from ui import Ui_MainWindow
 from ui_functions import UIFunctions
 from main_splash import SplashScreen
 from login import Ui_Login
-import webbrowser
-from bs4 import BeautifulSoup
-import requests
 
 class MainWindow(QMainWindow):
     
